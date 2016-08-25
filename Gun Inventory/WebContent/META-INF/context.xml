@@ -1,0 +1,6 @@
+<Context>
+	<Resource name="jdbc/firearms_inventory" auth="Container"
+		type="javax.sql.DataSource" maxActive="5" maxIdle="2" maxWait="10000"
+		username="brimahoney" password="duffy1180" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/firearms_inventory?useSSL=false" />
+</Context>
