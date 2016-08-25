@@ -75,7 +75,7 @@
 		<div style="clear: both;"></div>
 		
 		<p>
-			<a href="FirearmsInventoryControllerServlet">Back to Inventory</a>
+			<a href="FirearmsInventoryControllerServlet">Back to Firearm Inventory</a>
 		</p> 
 	</div>
 

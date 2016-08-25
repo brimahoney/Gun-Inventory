@@ -27,7 +27,7 @@
 
 	<div id="wrapper">
 		<div id="header">
-			<h2>Firearms Inventory</h2>
+			<h2>Firearms Inventory with Sortable Table</h2>
 		</div>
 	</div>
 
